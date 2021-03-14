@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="../../../../assets/git.gif" alt="Locais Trabalho" />
+  <img src="./git.gif" alt="Locais Trabalho" />
 
   &#xa0;
 
